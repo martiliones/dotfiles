@@ -1,0 +1,30 @@
+{
+  "workbench.statusBar.visible": false,
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "Vitesse Dark",
+  "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "breadcrumbs.enabled": false,
+  "editor.tabSize": 2,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "redhat.telemetry.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.productIconTheme": "icons-carbon",
+  "workbench.iconTheme": "file-icons",
+  "window.menuBarVisibility": "toggle",
+  "workbench.activityBar.visible": false
+}
