@@ -104,8 +104,14 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
-alias fetch="sh ~/scripts/fetch.sh"
+alias fetch="sh ~/.config/scripts/fetch.sh"
+alias stfd="shutdown"
+alias pakistan="sudo pacman"
 
+export ANDROID_SDK_ROOT="/home/martiliones/Android/Sdk"
+
+path+=('/home/martiliones/Android/Sdk/platform-tools')
 path+=('/snap/bin')
 
 export PATH
+source /usr/share/nvm/init-nvm.sh
