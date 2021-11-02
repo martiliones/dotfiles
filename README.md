@@ -17,6 +17,4 @@ git clone https://github.com/martiliones/dotfiles.git && cd dotfiles && sh ./ins
 ```
 
 ## 🙌 Thanks
-**Wallpaper**: Photo by <a href="https://unsplash.com/@andersjilden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anders Jildén</a> on <a href="/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
+**VS Code Theme**: Theme by <a href="https://github.com/antfu">Anthony Fu</a> on <a href="https://github.com/antfu/vscode-theme-vitesse">GitHub</a>
